@@ -1,3 +1,4 @@
 # pruebalogin
 mi login con vue
-run with vue run serve
+
+run with npm run serve
