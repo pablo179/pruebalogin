@@ -128,7 +128,7 @@ export default {
             document.getElementById('pasinp').classList.add('errortxt');
             document.getElementById('userinp').classList.add('errortxt');
         })
-        },800,this.loc,this.rut)
+        },750,this.loc,this.rut)
     },
     onSubmitup () {
         if(this.newuser.password==this.newuser.confirm){
@@ -160,7 +160,7 @@ export default {
                 window.alert("hubo un error: "+e)
             }) 
 
-        },800,this.loc,this.rut)
+        },750,this.loc,this.rut)
 
             }
             else{
